@@ -14,3 +14,6 @@ What is your project named? … simple-swimming-map-generator
 ✔ Use App Router (recommended)? … No / Yes
 ✔ Would you like to customize the default import alias? … No / Yes
 ```
+
+* It is more paramount to rn `yarn dev` than other commands to run locally
+* It runs on localhost:3000
