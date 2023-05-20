@@ -17,3 +17,4 @@ What is your project named? … simple-swimming-map-generator
 
 * It is more paramount to rn `yarn dev` than other commands to run locally
 * It runs on localhost:3000
+* Check Documentation on [https://keldendraduldorjis-organization.gitbook.io/getting-started-with-nextjs/](https://keldendraduldorjis-organization.gitbook.io/getting-started-with-nextjs/)
